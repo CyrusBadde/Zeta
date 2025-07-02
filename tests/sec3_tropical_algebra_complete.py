@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-           
 # Copyright © 2024-2025 Cyrus Badde cyrusbadde@protonmail.com
 # SPDX-License-Identifier: GPL-3.0-or-later OR Proprietary
 #
@@ -7,7 +9,7 @@
 # See the LICENSE files at the root of this repository for details.
 
 
-#!/usr/bin/env python3
+
 """
 sec3_tropical_algebra_complete.py — UNIFIED formally checked tropical semiring
 ================================================================================
