@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-           
 # physical_correspondence_complete.py
 # Copyright (C) 2024-2025  Cyrus Badde cyrusbadde@protonmail.com
 # SPDX-License-Identifier: GPL-3.0-or-later OR Proprietary
@@ -7,10 +9,6 @@
 #   2) a proprietary commercial licence.
 # See the LICENSE files at the root of this repository for details.
 
-
-
-
-#!/usr/bin/env python3
 """
 sec7_zeta_regularization_complete.py — Complete ζ-Regularization Implementation
 ================================================================================
